@@ -11,6 +11,8 @@ This repo contains the code and the data used in the [Polimi's Recsys Challenge 
 <br>
 The goal of the competition was to create a recommender system for books, providing 10 recommendations for each user.
 
+https://www.kaggle.com/code/jaskaranram/recsys-final
+
 ## Results
 
 * MAP@10 - private: &nbsp;0.14095
